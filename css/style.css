@@ -244,4 +244,12 @@ header {
     .main {
         margin-top: 50px;
     }
+
+    .main-nav {
+        data-aos: fade-right;
+    }
+
+    .secondary-nav {
+        data-aos: fade-right;
+    }
 }
